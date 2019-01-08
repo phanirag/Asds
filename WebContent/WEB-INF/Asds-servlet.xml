@@ -28,7 +28,7 @@
 		p:driverClassName="com.mysql.jdbc.Driver"
 		p:url="jdbc:mysql://localhost:3306/world?useSSL=false"
 		p:username="root"
-		p:password="1987"
+		p:password="waba12vixo"
 	 />
 	 
 	 <bean class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean" name="sfObj">
