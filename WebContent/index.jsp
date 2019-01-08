@@ -9,7 +9,7 @@
 <body>
 <h1>Welcome to Application</h1>
 <a href="mvc/">
-	<img src="http://localhost/medihub/resources/images/starthere.png" width="250" height="250">
+	<img src="images/starthere.png" width="250" height="250">
 </a>
 <%-- <%=new java.util.Date() %>
 <%response.setHeader("Refresh", "1"); %> --%>

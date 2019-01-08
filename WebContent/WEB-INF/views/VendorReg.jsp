@@ -21,5 +21,6 @@
 	</table>
 </form>
 ${msg}
+<a href="viewAllVendor">Click here to view Records</a>
 </body>
 </html>
